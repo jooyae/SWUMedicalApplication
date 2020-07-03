@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72636059136",
+    "firebase_url": "https://ttokttokv20.firebaseio.com",
+    "project_id": "ttokttokv20",
+    "storage_bucket": "ttokttokv20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72636059136:android:0e71ca3ecb2220bc9392e5",
+        "android_client_info": {
+          "package_name": "com.example.ttokttok_v20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72636059136-mk9rbvitp6u286q2titjda4qn43u9gdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ttokttok_v20",
+            "certificate_hash": "d47fa074deaf369ae05a18f4de1611d35d792456"
+          }
+        },
+        {
+          "client_id": "72636059136-mesvfji0t5nf64fhb6t4lu193iq0rqde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-7labrUa_zQzwYhK01fiwZZVOcN7EUqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72636059136-mesvfji0t5nf64fhb6t4lu193iq0rqde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

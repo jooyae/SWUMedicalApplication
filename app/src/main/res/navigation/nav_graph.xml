@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/main_fragment">
+
+    <fragment
+        android:id="@+id/main_fragment"
+        android:name="com.example.ttokttok_v20.MainFragment"
+        android:label="메인페이지"
+        tools:layout="@layout/fragment_main" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/mypage_fragment"
+        android:name="com.example.ttokttok_v20.MypageFragment"
+        android:label="마이페이지"
+        tools:layout="@layout/fragment_mypage"/>
+
+    <fragment
+        android:id="@+id/login_fragment"
+        android:name="com.example.ttokttok_v20.LoginFragment"
+        android:label="로그인"
+        tools:layout="@layout/fragment_login"/>
+
+    <fragment
+        android:id="@+id/bookmark_fragment"
+        android:name="com.example.ttokttok_v20.BookmarkFragment"
+        android:label="즐겨찾기"
+        tools:layout="@layout/fragment_bookmark"/>
+
+    <fragment
+        android:id="@+id/alarm_fragment"
+        android:name="com.example.ttokttok_v20.AlarmFragment"
+        android:label="알람 설정"
+        tools:layout="@layout/fragment_alarm"/>
+
+
+</navigation>
